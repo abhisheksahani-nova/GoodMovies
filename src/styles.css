@@ -8,3 +8,12 @@ body {
   background-color: #efefef;
   font-family: "Source Sans Pro", sans-serif;
 }
+
+button {
+  backgroundcolor: "#E5E7EB";
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}

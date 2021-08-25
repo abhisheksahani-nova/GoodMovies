@@ -48,8 +48,7 @@ export default function App() {
                 border: "1px solid black",
                 padding: "0.5rem 1.4rem",
                 margin: "1rem 0.3rem",
-                borderRadius: "0.4rem",
-                backgroundColor: "#E5E7EB"
+                borderRadius: "0.4rem"
               }}
               key={index}
               onClick={() => {
