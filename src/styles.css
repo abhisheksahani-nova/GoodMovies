@@ -1,6 +1,10 @@
 .App {
-  font-family: sans-serif;
   max-width: 600px;
   padding: 2rem;
   margin: auto;
+}
+
+body {
+  background-color: #efefef;
+  font-family: "Source Sans Pro", sans-serif;
 }
